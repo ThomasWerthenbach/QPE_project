@@ -1,0 +1,15 @@
+name: ../docker-compose-gcloud
+description: Helm Chart for running the Orchestrator for the FLTK framework. Requires
+version: 0.3.0
+apiVersion: v1
+appVersion: 1.17.0
+keywords:
+  - Orchestrator
+  - FLTK
+sources:
+home:
+#dependencies:
+#- name: fltk-extractor
+#  version: "0.1.0"
+#  repository: "file://../extractor"
+#  reason:
